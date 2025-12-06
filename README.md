@@ -39,7 +39,8 @@ RC PHASE SHIFT OSCILLATOR
 ![WhatsApp Image 2025-12-05 at 22 44 06_f63220ac](https://github.com/user-attachments/assets/90305351-5f16-44b6-8235-f3aaee01b589)
 
 ## DESIGN
-![WhatsApp Image 2025-12-05 at 22 45 07_538e9827](https://github.com/user-attachments/assets/a01d071c-7c6b-4666-a17f-ac1fab958764)
+<img width="1600" height="1325" alt="image" src="https://github.com/user-attachments/assets/939ebc17-b957-4854-af9e-9b4bc988ff9f" />
+
 
 ## RC PHASE SHIFT OSCILLATOR
 fo = 1 /  6 (2RC) Rf  29 R1
@@ -111,6 +112,8 @@ R=1/2πfC
 Assume R1 = 10R & find Rf from Rf = 2R1
 Therefore R1 = 1.5K *10=15KΩ
 Rf = 15K *2=30KΩ
+<img width="1600" height="1325" alt="image" src="https://github.com/user-attachments/assets/219dd44f-b92b-4fda-97d6-7372e1c28be7" />
+
 ---
 
 ## PROCEDURE
